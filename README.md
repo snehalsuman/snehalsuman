@@ -6,6 +6,16 @@
 </p>
 
 ---
+---
+
+### 💼 About Me
+
+- 💻 **Expertise**: MERN stack, backend architecture, API development, deployment, and scalable applications.
+- 🏆 **Problem Solver**: Solved 600+ DSA problems on LeetCode & GeeksforGeeks with strong skills in data structures and algorithms.
+- 🎯 **Passionate About**: Building intelligent systems, optimizing performance, and solving real-world problems with technology.
+- 🤖 **Currently Exploring**: AI integration & DevOps automation.
+
+---
 
 ### 🌱 Currently Learning:
 - 🧠 Spring Boot
