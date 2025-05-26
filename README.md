@@ -12,7 +12,8 @@
 - ⚛️ React.js
 
 ### 📫 How to reach me:
-- 📧 snehals0203@gmail.com
+- 📧 snehals0203@gmail.com  
+- 📄 [View My Resume](https://drive.google.com/file/d/1GrhLzslE_0vzKarOjE0Db7nJrTfTN73T/view?usp=drive_link)
 
 ---
 
