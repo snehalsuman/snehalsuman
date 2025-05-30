@@ -4,8 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=snehalsuman&label=Profile%20views&color=0e75b6&style=flat" alt="snehalsuman" />
 </p>
-
----
 ---
 
 ### 💼 About Me
