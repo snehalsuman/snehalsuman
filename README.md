@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=snehalsuman&label=Profile%20views&color=0e75b6&style=flat" alt="snehalsuman" />
 </p>
----
 
 ### 💼 About Me
 
@@ -21,7 +20,7 @@
 
 ### 📫 How to reach me:
 - 📧 snehals0203@gmail.com  
-- 📄 [View My Resume](https://drive.google.com/file/d/1GrhLzslE_0vzKarOjE0Db7nJrTfTN73T/view?usp=drive_link)
+- 📄 [View My Resume](https://drive.google.com/file/d/19SEMGOKcs3XP_3OpeBle_H5rYciwI0sV/view?usp=sharing)
 
 ---
 
